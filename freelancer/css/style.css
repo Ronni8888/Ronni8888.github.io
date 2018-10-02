@@ -35,3 +35,23 @@ nav ul li{
   display: inline-block;
   padding-right: 2%;
 }
+.green{
+  background-color: #18bc9c;
+  text-align: center;
+  padding: 100px 0;
+}
+h1{
+  font-size: 70px;
+  padding: 30px;
+  color: white;
+}
+p{
+  font-size: 24px;
+  padding: 10px;
+  color: white;
+}
+hr{
+  width: 30px;
+  margin: 0 auto;
+
+}
