@@ -85,8 +85,9 @@ hr{
   .bg-black {
     background-color: black;
 }
-.container{
+.copyright{
   background-color: #1a252f;
   text-align: center;
+  text: white;
   padding: 100px 0;
 }
