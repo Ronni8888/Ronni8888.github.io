@@ -85,7 +85,7 @@ hr{
   .bg-black {
     background-color: black;
 }
-.copyright{
+.copyright,.container,small{
   background-color: #1a252f;
   text-align: center;
   color: white;
