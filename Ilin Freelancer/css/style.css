@@ -87,4 +87,6 @@ hr{
 }
 .black footer{
   background-color: #1a252f;
+  text-align: center;
+  padding: 100px 0;
 }
