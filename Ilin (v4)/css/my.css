@@ -1,0 +1,25 @@
+.start {
+  background-color: rgb(25,189,155);
+}
+.star {
+  width: 20%;
+  border: 2px solid #F8F5E1;
+}
+.zvezda {
+  margin-top: -33px;
+}
+.starb {
+  width: 20%;
+  border: 2px solid black;
+}
+i.fab {
+  display: inline-block;
+  border: 1px solid white;
+  width: 35px;
+  border-radius: 50%;
+  padding: 0.5em 0.75em;
+  color: white;
+}
+.bg-black {
+  background-color: black;
+}
